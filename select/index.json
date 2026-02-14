@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Bonita",
+  "base_artist": "BIM",
+  "createdAt": "2026-02-14T15:27:12.123647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bonita Applebum",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Bonita_Applebum_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_La_Isla_Bonita_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Isla Bonita (Instrumental Extended Remix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/03_La_Isla_Bonita_(Instrumental_Extended_Remix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lugar Bonita (Pretty Place)",
+      "artist": "Astrud Gilberto",
+      "has_synced": false,
+      "path": "select/04_Lugar_Bonita_(Pretty_Place)_Astrud_Gilberto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_La_Isla_Bonita_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_La_Isla_Bonita_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_La_Isla_Bonita_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Isla Bonita 2008 - Live",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/08_La_Isla_Bonita_2008_-_Live_Madonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Isla Bonita 2008",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/09_La_Isla_Bonita_2008_Madonna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bonita",
+      "artist": "BIM",
+      "has_synced": false,
+      "path": "select/pl_01_Bonita_BIM.txt"
+    }
+  ]
+}
